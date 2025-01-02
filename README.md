@@ -1,2 +1,2 @@
 # learn_rust
-i learing rust :3
+i'm learing rust :3
